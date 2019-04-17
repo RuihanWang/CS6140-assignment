@@ -1,0 +1,8 @@
+For Assignment2. run the ass2.py class. It has already fold up other classes already.
+Each parts contains a paragraph of codes that runs one question.
+To run the code, Numpy, pandas and matplotlib classes are needed.
+Gradient class for question 2
+NormalEquation class for question 3
+polynomial class for question 5
+ridge class for question 7
+data are all in the same folder already.
